@@ -2,8 +2,6 @@
 
 Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en nuestra plataforma. Innovaciones diseñadas para agilizar y enriquecer tu experiencia de trabajo.
 
-
-
 ## 📆 26 de marzo de 2024
 
 ### ✨ Nuevas Mejoras y Secciones
@@ -27,6 +25,8 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 ### 📊 Mejoras en la Creación de Usuarios
 
 - **Reporte de Listado de Cargos**: Hemos añadido un nuevo botón en la sección de carga masiva de usuarios, permitiéndote descargar un reporte con la lista de cargos previamente cargados en la plataforma. Esta mejora agiliza el proceso de verificación y minimiza errores humanos.
+
+<img width="1787" alt="image" src="https://github.com/bcnschool/BCN360_public/assets/9663223/c3421fff-f6e8-4466-85b9-7bb2c82bb451">
 
 ### ✨ Actualizaciones en el Dashboard
 
