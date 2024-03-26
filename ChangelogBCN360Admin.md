@@ -1,4 +1,4 @@
-# 🌟 Novedades administrador BCN360 🌟
+# 🌟 Administrador BCN360 🌟
 
 Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en nuestra plataforma. Innovaciones diseñadas para agilizar y enriquecer tu experiencia de trabajo.
 
