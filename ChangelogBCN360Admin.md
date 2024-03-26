@@ -4,7 +4,7 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 
 
 
-## 📅 26 de marzo de 2024
+## 📆 26 de marzo de 2024
 
 ### ✨ Nuevas Mejoras y Secciones
 
