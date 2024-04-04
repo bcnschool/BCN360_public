@@ -14,7 +14,7 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 
 - Hemos agregado la opción de crear un modulo de curso llamado "Repositorio de archivos", esta es una carpeta que se podra administrar desde el campus y solo puede ser vista por Profesores y Administradores.
 
-[!Repositorio de archivos](https://github.com/bcnschool/BCN360_public/assets/9663223/45ee4616-cf0f-4f05-b91d-4e8bec0dbb5f)
+![Repositorio de archivos](https://github.com/bcnschool/BCN360_public/assets/9663223/45ee4616-cf0f-4f05-b91d-4e8bec0dbb5f)
 
 ## 📆 26 de marzo de 2024
 
