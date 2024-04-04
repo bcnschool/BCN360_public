@@ -2,6 +2,12 @@
 
 Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en nuestra plataforma. Innovaciones diseñadas para agilizar y enriquecer tu experiencia de trabajo.
 
+## 📆 04 de abril de 2024
+
+### ⭐ Sistema de banner
+
+- Se corrigio un problema al crear un banner nuevo el tamaño de la letra no se fijaba por defecto. ahora por defecto sera 39 pixeles el titulo y 19 el subtitulo.
+
 ## 📆 26 de marzo de 2024
 
 ### ✨ Nuevas Mejoras y Secciones
