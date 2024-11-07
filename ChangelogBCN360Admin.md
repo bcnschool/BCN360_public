@@ -2,12 +2,14 @@
 
 Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en nuestra plataforma. Innovaciones diseñadas para agilizar y enriquecer tu experiencia de trabajo.
 
-## 📆 09 de agosto de 2024
+<details>
+  <summary>## 📆 09 de agosto de 2024</summary>
 
 ### ⭐ Reinicio de intentos de evaluaciones
 ![reinicio de evaluaciones (1)](https://github.com/user-attachments/assets/9c39d827-1ef5-4307-9c2f-8a1c89a815b2)
 - Se agrega una nueva seccion en la lista de usuarios matriculados de cursos para reiniciar los intentos de evaluaciones
-  
+
+</details>
 ## 📆 06 de agosto de 2024
 
 ### ⭐ Mejoras Dashboard
