@@ -2,14 +2,16 @@
 
 Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en nuestra plataforma. Innovaciones diseñadas para agilizar y enriquecer tu experiencia de trabajo.
 
-<details>
-  <summary>## 📆 09 de agosto de 2024</summary>
+<details open>
+  <summary> <h2>Agosto 2024</h2> </summary>
+
+## 📆 09 de agosto de 2024
 
 ### ⭐ Reinicio de intentos de evaluaciones
 ![reinicio de evaluaciones (1)](https://github.com/user-attachments/assets/9c39d827-1ef5-4307-9c2f-8a1c89a815b2)
 - Se agrega una nueva seccion en la lista de usuarios matriculados de cursos para reiniciar los intentos de evaluaciones
 
-</details>
+
 ## 📆 06 de agosto de 2024
 
 ### ⭐ Mejoras Dashboard
@@ -27,6 +29,11 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 ### ⭐ Filtro en certificados
 
 - Ahora puedes filtrar por fechas al descargar certificados, lo que facilita encontrar los que necesitas.
+
+</details>
+
+<details>
+  <summary> <h2>Julio 2024</h2> </summary>
   
 ## 📆 31 de Julio de 2024
 
@@ -72,7 +79,11 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 ### ⭐ Reportes
 
 - Ahora puedes acceder a un reporte que compara el uso de la plataforma entre el año en curso y el año anterior.
+</details>
 
+<details>
+  <summary> <h2>Junio 2024</h2> </summary>
+  
 ## 📆 28 de Junio de 2024
 
 ### ⭐ Reportes
@@ -116,6 +127,10 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 
 - El reporte de Checklist Onboarding solo se mostrará si está habilitado en la plataforma.
 
+</details>
+<details>
+  <summary> <h2>Mayo 2024</h2> </summary>
+
 ## 📆 30 de Mayo de 2024
 
 ### ⭐ General
@@ -148,6 +163,10 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 
 - Los textos de las notificaciones del sistema ahora son más claros y útiles.
 
+</details>
+<details>
+  <summary> <h2>Abril 2024</h2> </summary>
+
 ## 📆 04 de abril de 2024
 
 ### ⭐ Sistema de banner
@@ -162,6 +181,10 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 
 ![Repositorio de archivos](https://github.com/bcnschool/BCN360_public/assets/9663223/45ee4616-cf0f-4f05-b91d-4e8bec0dbb5f)
 
+</details>
+<details>
+  <summary> <h2>Marzo 2024</h2> </summary>
+  
 ## 📆 26 de marzo de 2024
 
 ### ✨ Nuevas Mejoras y Secciones
@@ -191,3 +214,5 @@ Explora las últimas mejoras y actualizaciones que facilitan tu autogestión en 
 ### ✨ Actualizaciones en el Dashboard
 
 - **Nuevo Formato de Filtros**: Con el objetivo de mejorar la experiencia de usuario, hemos actualizado los filtros de usuarios, cursos y mallas curriculares. Ahora, estos incluyen una función de búsqueda rápida que facilita y agiliza la selección, permitiéndote encontrar lo que necesitas con mayor eficiencia.
+
+</details>
